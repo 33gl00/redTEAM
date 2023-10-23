@@ -36,36 +36,35 @@ _Documentation, tips and pentest's methodology_
 ## Access investigation
 
 1. USER
-- whoamI
+- whoami
 - session
 - sudoers
 2. SYSTEM
-- OS
-- VAR ENV
-- SERVICES
-- PROCESSUS
-- DRIVERS
-- APPLICATIONS
-- FILES
-- CRONTAB
+- os
+- var env
+- services
+- processus
+- drivers
+- applications
+- files
+- crontab
 3. NETWORK
-- FireWall
-- HOST
-- DNS
-- ARP
-- ROUTES
-- PORTS
+- firewall
+- host
+- dns
+- arp
+- ports
+- routes
 4. PASSWORD
 - policy
 - browser
 - save in memory
 - fichiers
-- SAM
-- Golden Ticket
+- sam
+- golden ticket
 5. TRUC DE SIOUX
 - history
 - press papier
 - credentials cached
 - cookie
 - prompt
-
