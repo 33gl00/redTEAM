@@ -22,4 +22,50 @@ _Documentation, tips and pentest's methodology_
 16. PEOPLE
     
 ## RECONNAISSANCE intern
-1. InProgress
+1. DNS
+2. ACTIVE DIRECTORY
+3. ROUTE
+4. LISTEN
+5. SCAN
+    1. USERS
+    2. NETWORK
+6. SHARE
+    1. DISK
+    2. TSE
+
+## Access investigation
+
+1. USER
+- whoamI
+- session
+- sudoers
+2. SYSTEM
+- OS
+- VAR ENV
+- SERVICES
+- PROCESSUS
+- DRIVERS
+- APPLICATIONS
+- FILES
+- CRONTAB
+3. NETWORK
+- FireWall
+- HOST
+- DNS
+- ARP
+- ROUTES
+- PORTS
+4. PASSWORD
+- policy
+- browser
+- save in memory
+- fichiers
+- SAM
+- Golden Ticket
+5. TRUC DE SIOUX
+- history
+- press papier
+- credentials cached
+- cookie
+- prompt
+
